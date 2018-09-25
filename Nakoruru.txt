@@ -1,0 +1,47 @@
+** To stop this listing, type "/MSG Nakoruru XDCC STOP" **
+** 41 packs **  19 of 20 slots open, Record: 847.8KB/s
+** Bandwidth Usage ** Current: 33.3KB/s, Record: 375.3KB/s
+** To request a file, type "/MSG Nakoruru XDCC SEND x" **
+** To request details, type "/MSG Nakoruru XDCC INFO x" **
+#1  1x [3.9M] boku_to_watashi_no_henai_jijou_c04[oppsd].zip
+#2  1x [3.6M] boku_to_watashi_no_henai_jijou_c05[oppsd].zip
+#3  1x [3.2M] boku_to_watashi_no_henai_jijou_c06[oppsd].zip
+#4  1x [4.5M] boku_to_watashi_no_henai_jijou_c07[oppsd].zip
+#5  1x [3.1M] boku_to_watashi_no_henai_jijou_c08[oppsd].zip
+#6  1x [5.6M] boku_to_watashi_no_henai_jijou_c09[oppsd].zip
+#7  1x [ 14M] china_girl_v01_c01[impurity].zip
+#8  1x [7.1M] china_girl_v01_c02[impurity].zip
+#9  1x [5.9M] china_girl_v01_c03[impurity].zip
+#10 1x [ 10M] henkoi_v01_c08[oppsd].zip
+#11 1x [ 11M] henkoi_v01_c09+omake[oppsd].zip
+#12 0x [ 10M] honeymoon_salad_v04_c32[oppsd].zip
+#13 0x [4.1M] ichigo_mashimaro_c62[oppsd].zip
+#14 0x [ 17M] mars_no_kiss_v01_c01[OTS].zip
+#15 0x [ 15M] kissing_mars_v01_c02[OTS].zip
+#16 0x [ 11M] kissing_mars_v01_c03v2[OTS].zip
+#17 0x [ 13M] kururi_of_the_sea_v01_c01[oppsd].zip
+#18 0x [6.8M] kururi_of_the_sea_v01_c02[oppsd].zip
+#19 0x [7.7M] kururi_of_the_sea_v01_c03[oppsd].zip
+#20 0x [8.4M] kururi_of_the_sea_v01_c04v2[oppsd].zip
+#21 0x [5.5M] kururi_of_the_sea_v01_c05[oppsd].zip
+#22 0x [8.7M] kururi_of_the_sea_v01_c06[oppsd].zip
+#23 0x [7.1M] kururi_of_the_sea_v01_c07[oppsd].zip
+#24 0x [ 10M] kururi_of_the_sea_v01_c08[oppsd].zip
+#25 0x [ 11M] sex_nanka_kyoumi_nai_v01_c01[oppsd].zip
+#26 0x [5.9M] sometimes_mellow_box_seat[oppsd].zip
+#27 0x [ 15M] sometimes_mellow_boy_and_girl_c01[oppsd].zip
+#28 0x [7.4M] sometimes_mellow_boy_and_girl_c02[oppsd].zip
+#29 0x [ 10M] sometimes_mellow_boy_and_girl_c03[oppsd].zip
+#30 0x [2.9M] sometimes_mellow_thank_you[oppsd].zip
+#31 0x [7.3M] ten_yori_takaku_v01_c01[oppsd].zip
+#32 0x [8.3M] ten_yori_takaku_v01_c02[oppsd].zip
+#33 0x [3.7M] ten_yori_takaku_v01_c03[oppsd].zip
+#34 0x [8.6M] ten_yori_takaku_v01_c04[oppsd].zip
+#35 0x [6.4M] the_piano_tuner[oppsd].zip
+#36 0x [ 11M] tsugumomo_c06v4[oppsd].zip
+#37 0x [ 11M] tsugumomo_v01_c05[oppsd].zip
+#38 0x [8.7M] tsugumomo_v02_c07v2[oppsd].zip
+#39 0x [ 14M] tsugumomo_v02_c08[oppsd].zip
+#40 0x [ 13M] tsugumomo_v02_c09v2[oppsd].zip
+#41 0x [8.2M] tsugumomo_v02_c10[oppsd].zip
+Total Offered: 349MB  Total Transferred: 109MB

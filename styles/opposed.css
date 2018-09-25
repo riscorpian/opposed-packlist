@@ -1,0 +1,215 @@
+/* Define Web Fonts */
+@font-face{
+	font-family: "DejaVu Sans Redux";
+	src: url('/fonts/dejavusansredux-extralight-webfont.eot');
+	src: local('?'), url('/fonts/dejavusansredux-extralight-webfont.woff') format('woff'), url('/fonts/dejavusansredux-extralight-webfont.ttf') format('truetype'), url('/fonts/dejavusansredux-extralight-webfont.svg#webfont9yo0uksj') format('svg');
+	font-weight: 100;
+}
+@font-face{
+	font-family: "DejaVu Sans Redux";
+	src: url('/fonts/dejavusansredux-webfont.eot');
+	src: local('?'), url('/fonts/dejavusansredux-webfont.woff') format('woff'), url('/fonts/dejavusansredux-webfont.ttf') format('truetype'), url('/fonts/dejavusansredux-webfont.svg#webfontVykFKryu') format('svg');
+	font-weight: normal;
+}
+@font-face{
+	font-family: "DejaVu Sans Redux";
+	src: url('/fonts/dejavusansredux-bold-webfont.eot');
+	src: local('?'), url('/fonts/dejavusansredux-bold-webfont.woff') format('woff'), url('/fonts/dejavusansredux-bold-webfont.ttf') format('truetype'), url('/fonts/dejavusansredux-bold-webfont.svg#webfontl2uzlcy0') format('svg');
+	font-weight: bold;
+}
+
+/* General Display */
+html, body{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #FFFFFF;
+	color: rgba(0, 0, 0, .5);
+	text-align: center;
+	font: 12px "DejaVu Sans Redux";
+	line-height: 1;
+	overflow-y: scroll;
+}
+a{
+	-webkit-transition-property: color;
+	-webkit-transition-duration: .2s;
+	-moz-transition-property: color;
+	-moz-transition-duration: .2s;
+	-o-transition-property: color;
+	-o-transition-duration: .2s;
+	color: rgb(125, 125, 125);
+	color: rgba(0, 0, 0, .8);
+	text-decoration: none;
+	outline: none;
+}
+a:hover{
+	-webkit-transition-property: color;
+	-webkit-transition-duration: .2s;
+	-moz-transition-property: color;
+	-moz-transition-duration: .2s;
+	-o-transition-property: color;
+	-o-transition-duration: .2s;
+	color: rgb(255, 0, 255);
+}
+ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+/* Header Display */
+#hcontainer{
+	position: fixed;
+	margin: 0 auto;
+	width: 100%;
+	z-index: 6;
+}
+#header{
+	background: rgb(0, 0, 0);
+	white-space: nowrap;
+	text-align: center;
+	position: relative;
+	margin: 0 auto;
+	height: 100px;
+	width: 100%;
+}
+#header div{
+	position: relative;
+	text-align: left;
+	margin: 0 auto;
+	width: 960px;
+}
+#hlink{
+	color: rgb(255, 255, 255);
+	text-align: left;
+	display: block;
+	height: 100px;
+	width: 365px;
+}
+#hlink em{
+	letter-spacing: -4px;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 59px;
+	position: relative;
+	left: 5px;
+	top: 12px;
+}
+#hlink span{
+	-webkit-transition-property: color;
+	-webkit-transition-duration: .2s;
+	-moz-transition-property: color;
+	-moz-transition-duration: .2s;
+	-o-transition-property: color;
+	-o-transition-duration: .2s;
+	color: rgba(255, 255, 255, .45);
+	letter-spacing: -.5px;
+	font-weight: bold;
+	font-size: 14px;
+	position: relative;
+	right: 139px;
+	top: 27px;
+}
+#hlink:hover span{
+	-webkit-transition-property: color;
+	-webkit-transition-duration: .2s;
+	-moz-transition-property: color;
+	-moz-transition-duration: .2s;
+	-o-transition-property: color;
+	-o-transition-duration: .2s;
+	color: rgba(255, 255, 255, .5);
+}
+
+/* Navigation */
+#nav{
+	text-align: left;
+	padding-right: 5px;
+	margin: 0px auto;
+	float: right;
+}
+#nav li{
+	letter-spacing: -2px;
+	font-weight: 100;
+	font-size: 29px;
+	display: inline;
+}
+#nav a{
+	-webkit-transition-property: color;
+	-webkit-transition-duration: .2s;
+	-moz-transition-property: color;
+	-moz-transition-duration: .2s;
+	-o-transition-property: color;
+	-o-transition-duration: .2s;
+	color: rgba(255, 255, 255, .5);
+	padding: 58px 10px 13px 7px;
+	display: inline-block;
+}
+#nav a:hover, .navsel a{
+	-webkit-transition-property: color;
+	-webkit-transition-duration: .2s;
+	-moz-transition-property: color;
+	-moz-transition-duration: .2s;
+	-o-transition-property: color;
+	-o-transition-duration: .2s;
+	color: rgba(255, 255, 255, .6);
+}
+.navsel a{
+	color: rgb(255, 255, 255)!important;
+	cursor: default;
+}
+
+/* Colorful bar */
+#color{
+	background-color: rgb(255, 0, 255);
+	background: -webkit-gradient(linear, left top, right top, from(rgb(255, 204, 0)), color-stop(.5, rgb(255, 0, 225)), to(rgb(64, 180, 255)));
+	background: -moz-linear-gradient(left, rgb(245, 174, 0), rgb(255, 0, 225) 50%, rgb(80, 180, 255));
+	height: 3px;
+	width: 100%;
+}
+#color div{
+	background-color: rgb(255, 255, 255);
+	background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), color-stop(.01, rgb(255, 255, 255)), to(rgb(255, 255, 255)));
+	background: -moz-linear-gradient(left, rgba(255, 255, 255, 0), rgb(255, 255, 255) 1%);
+	display: none;
+	float: right;
+	height: 100%;
+	width: 100%;
+}
+
+/* Container */
+#container{
+	padding-top: 103px;
+	text-align: left;
+	margin: 0 auto;
+	width: 960px;
+}
+
+/* Header/Footer Fade */
+#headerfade, #footerfade{
+	background: -webkit-gradient(linear, left top, left bottom, from(rgb(255, 255, 255)), color-stop(.3, rgba(255, 255, 255, .9)), to(rgba(255, 255, 255, 0)));
+	background: -moz-linear-gradient(top, rgb(255, 255, 255), rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, 0));
+	position: fixed;
+	z-index: 3;
+	width: 0px;
+}
+#footerfade{
+	background: -webkit-gradient(linear, left bottom, left top, from(rgb(255, 255, 255)), color-stop(.3, rgba(255, 255, 255, .9)), to(rgba(255, 255, 255, 0)));
+	background: -moz-linear-gradient(bottom, rgb(255, 255, 255), rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, 0));
+	height: 25px;
+	bottom: 0px;
+	width: 100%;
+}
+
+/* Throbber */
+#throbber{
+	background: url(/images/throbber.png);
+	margin-right: 25px;
+	position: fixed;
+	display: none;
+	height: 50px;
+	width: 50px;
+	z-index: 8;
+	left: 50%;
+	top: 113px;
+}
